@@ -1,0 +1,29 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Directorio de entorno virtual (si lo usas)
+venv/
+env/
+
+# Archivo de registro
+*.log
+
+# Archivo de base de datos (si se almacena en el proyecto)
+*.db
+
+# Archivos generados por IDEs o editores de texto
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.ntvs*
+
+# Archivos y directorios generados por sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivo de variables de entorno
+.env
